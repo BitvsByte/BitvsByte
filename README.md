@@ -1,3 +1,5 @@
+![Header](https://github.com/BitvsByte/BitvsByte/blob/main/githubcover.jpg)
+
 <h1 align="center">Hello world👋 My name is Jose Besalduch</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
